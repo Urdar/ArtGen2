@@ -22,7 +22,7 @@ public class ArtGen extends PApplet {
 
     boolean pause = false;
 
-    // List of animals in the field.
+
 
 
     public void setup() {
