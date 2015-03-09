@@ -28,7 +28,7 @@ public class ArtGen extends PApplet {
     public void setup() {
 
         size(displayWidth, displayHeight);    // Fullskjerm
-//        size(500, 500);
+        //size(500, 500);
         smooth();
         background(255);
         noStroke();
