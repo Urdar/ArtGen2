@@ -39,7 +39,10 @@ public class ArtGen extends PApplet {
 
     public void draw() {
 
-
+        textAlign(CENTER);
+        textSize(32);
+        fill(255, 0, 0);
+        text("Trykk ESQ for å avslutte", (displayWidth / 2), (displayHeight / 2));
 
         }
 
