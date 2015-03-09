@@ -34,6 +34,11 @@ public class ArtGen extends PApplet {
         noStroke();
         fill(0, 255, 0);
 
+        /*
+        Spiral testSpiral = new Spiral(1, 50, 15);
+        testSpiral.generateSpiral();
+        */
+
     }
 
 
